@@ -9,8 +9,9 @@
 
 ## 💻 Projeto
 
-<p>V:0.0.1: Nesse projeto foi utilizado os conceitos de Positions que foi estudado no curso do Origamid.</p>
-<p>V:0.0.2: Usado conceitos de refatoração, pseudo classes e elementos, tipografia e unidades.</p>
+<p>Ver. 0.0.1: Nesse projeto foi utilizado os conceitos de Positions que foi estudado no curso do Origamid.</p>
+<p>Ver. 0.0.2: Usado conceitos de refatoração, pseudo classes e elementos, tipografia e unidades.</p>
+<p>Ver. 0.0.3: Criado a responsividade no site adaptando mobile, tablet e computador.</p>
 
 
 <br>
